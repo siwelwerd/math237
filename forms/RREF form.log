@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  13 SEP 2019 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  9 JAN 2020 14:43
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -74,16 +74,16 @@ LaTeX Font Info:    ... okay on input line 13.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
 * h-part:(L,W,R)=(18.06749pt, 758.835pt, 18.06749pt)
-* v-part:(T,H,B)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 578.16pt, 0.0pt)
 * \paperwidth=794.96999pt
 * \paperheight=614.295pt
 * \textwidth=758.835pt
-* \textheight=542.02501pt
+* \textheight=578.16pt
 * \oddsidemargin=-54.2025pt
 * \evensidemargin=-54.2025pt
 * \topmargin=-73.135pt
@@ -105,36 +105,36 @@ LaTeX Font Info:    ... okay on input line 13.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
@@ -144,7 +144,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 Here is how much of TeX's memory you used:
  729 strings out of 494910
  9962 string characters out of 6179835
- 64166 words of memory out of 5000000
+ 64230 words of memory out of 5000000
  4086 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -152,7 +152,7 @@ Here is how much of TeX's memory you used:
 </usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "RREF form.pdf" (1 page, 21458 bytes).
+Output written on "RREF form.pdf" (1 page, 21457 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
