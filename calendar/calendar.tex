@@ -1,0 +1,141 @@
+\documentclass{article}
+
+\usepackage[left=1in,right=1in,top=1in,bottom=1in,landscape]{geometry}
+\usepackage{enumerate,amssymb}
+\usepackage{termcal}
+
+\input{../course-specific-macros.tex}
+
+\newcommand{\RAT}[1]{{\bf RAT Module #1}\\}
+\newcommand{\aday}[2]{{\bf Module #1 Part #2 \\}}
+\newcommand{\quiz}[2]{{{\bf Quiz #1:} #2 \\}}
+
+
+
+\begin{document}
+\pagestyle{empty}
+\noindent \course \hfill \semester \hfill \prof
+\vspace{0.3in}
+\hrule
+\begin{center}{\large \bf  Course Calendar} \\ Subject to Change\end{center}
+\hrule
+
+
+\begin{center}
+\begin{calendar}{1/6/2020}{19} 
+
+%\renewcommand{\calprintclass}{}  %Suppress printing class day
+%\setlength{\calboxdepth}{.3in}
+\calday[Monday]{\classday}
+\calday[Tuesday]{}
+\calday[Wednesday]{\classday}
+\calday[Thursday]{}
+\calday[Friday]{\classday}
+\skipday \skipday
+
+%Specify holidays/exceptions
+\options{1/6/2020}{\noclassday}
+\options{1/8/2020}{\noclassday}
+\options{1/10/2020}{\noclassday}
+\options{1/20/2020}{\noclassday}
+\caltext{1/20/2020}{{\em Martin Luther King Day \\ No class}}
+\caltext{1/25/2020}{{\em Martin Luther King Day \\ No class}}
+\options{3/9/2020}{\noclassday}
+\options{3/11/2020}{\noclassday}
+\options{3/13/2020}{\noclassday}
+\caltext{3/9/2020}{{\em Spring Break}}
+\caltext{3/10/2020}{{\em Spring Break}}
+\caltext{3/11/2020}{{\em Spring Break}}
+\caltext{3/12/2020}{{\em Spring Break}}
+\caltext{3/13/2020}{{\em Spring Break}}
+
+\options{10/11/2019}{\noclassday}
+\caltext{10/10/2019}{{\em Fall Break}}
+\caltext{10/11/2019}{{\em Fall Break}}
+
+\options{11/27/2019}{\noclassday}
+\options{11/29/2019}{\noclassday}
+\caltext{11/27/2019}{{\em Thanksgiving Break}}
+\caltext{11/28/2019}{{\em Thanksgiving Break}}
+\caltext{11/29/2019}{{\em Thanksgiving Break}}
+
+\options{12/9/2019}{\noclassday}
+\options{12/11/2019}{\noclassday}
+\options{12/13/2019}{\noclassday}
+
+\caltext{12/9/2019}{Section 102 Final Exam \\ 10:30-12:30}
+\caltext{12/11/2019}{Section 101 Final Exam \\ 8-10}
+
+
+
+
+\options{4/29/2019}{\noclassday \weeklytext{{\em Finals Week}}}
+\options{4/30/2019}{\noclassday \weeklytext{{\em Finals Week}}}
+\options{5/1/2019}{\noclassday \weeklytext{{\em Finals Week} \\ \textbf{Final Exam 8-10}}}
+\options{5/2/2019}{\noclassday \weeklytext{{\em Finals Week}}}
+\options{5/3/2019}{\noclassday}
+\caltext{5/4/2019}{Commencement}
+
+
+
+
+% schedule
+\caltexton{1}{{\em First day of class}}
+\caltexton{3}{\RAT{E}}
+\caltexton{4}{\aday{E}{1}}
+\caltexton{5}{\aday{E}{2}}
+\caltexton{6}{\aday{E}{3}}
+\caltexton{7}{\aday{E}{4}}
+\caltexton{8}{\RAT{V} \quiz{1}{E1,E2,E3}}
+\caltexton{9}{\aday{V}{1} }
+\caltexton{10}{\aday{V}{2} }
+\caltexton{11}{\aday{V}{3} \quiz{2}{E2,E3,V1,V2}}
+\caltexton{12}{\aday{V}{4} }
+\caltexton{13}{\aday{V}{5}}
+\caltexton{14}{\aday{V}{6}\quiz{3}{V1,V2,V3,V4}}
+\caltexton{15}{\aday{V}{7} }
+\caltexton{16}{\aday{V}{8}}
+\caltexton{18}{\aday{V}{9}}
+\caltexton{19}{\aday{V}{10} }
+%\caltexton{19}{\aday{V}{11} \quiz{5}{V6,V7,V8,V9}}
+\caltexton{20}{\RAT{A} \quiz{4}{V4,V5,V6,V7}}
+
+\caltexton{21}{\aday{A}{1}}
+\caltexton{22}{\aday{A}{2}}
+\caltexton{24}{\aday{A}{3} }
+\caltexton{25}{\aday{A}{4}}
+\caltexton{26}{\aday{A}{5}\quiz{5}{V9,V10,A1,A2}}
+\caltexton{27}{\aday{A}{6} }
+
+
+\caltexton{28}{\RAT{M}}
+\caltexton{29}{\aday{M}{1}\quiz{6}{A1,A2,A3,A4}}
+\caltexton{30}{\aday{M}{2} }
+\caltexton{31}{\aday{M}{3}}
+\caltexton{33}{\aday{M}{4} }
+
+\caltexton{34}{\RAT{G}}
+\caltexton{35}{\aday{G}{1}\quiz{7}{A1,A3,A4,M1}}
+\caltexton{36}{\aday{G}{2} }
+\caltexton{37}{\aday{G}{3}}
+\caltexton{38}{\aday{G}{4}\quiz{8}{A4,M1,M2,M3}}
+\caltexton{39}{\aday{G}{5}  } 
+\caltexton{40}{\aday{P}{1}}
+\caltexton{41}{\aday{P}{2} \quiz{9}{G1,G2,G3,G4}}
+\caltexton{42}{\aday{P}{3}}
+\caltexton{44}{\aday{P}{4}}
+
+\caltexton{17}{\textbf{Exam 1}}
+\caltexton{23}{\textbf{Exam 2}}
+\caltexton{32}{\textbf{Exam 3}}
+
+\caltexton{43}{\textbf{Exam 4}}
+
+%\caltexton{42}{ {\bf Semifinal} }
+
+\end{calendar}
+\end{center}
+
+
+
+\end{document}
