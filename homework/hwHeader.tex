@@ -1,0 +1,60 @@
+\usepackage{amsmath,ifthen,amsthm,amssymb,enumerate}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
+\usepackage{environ}
+
+\NewEnviron{exerciseTitle}{}{}
+
+\newcommand{\standard}{00}
+
+\newenvironment{exercise}
+{
+}{
+}
+
+\newcounter{exercise}
+\newenvironment{exerciseStatement}
+{
+	\stepcounter{exercise}
+	\noindent\textbf{\standard.\theexercise}
+	\ignorespaces
+}{
+	\vspace{0.1in}
+}
+
+\newenvironment{exerciseAnswer}
+{
+	\noindent
+	\textit{Solution.}
+	\ignorespaces
+}{
+	\qed
+
+	\vspace{3em}
+}
+
+\newcommand{\IR}{\mathbb{R}}
+\newcommand{\IC}{\mathbb{C}}
+\renewcommand{\P}{\mathcal{P}}
+\newcommand{\setList}[1]{\left\{#1\right\}}
+\let\Im\relax\DeclareMathOperator{\Im}{Im}
+\DeclareMathOperator{\RREF}{RREF}
+\DeclareMathOperator{\vspan}{span}
+\newcommand{\setBuilder}[2]{\left\{#1\,\middle|\,#2\right\}}
+
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+
+
+\newcommand{\startStandard}[1]
+{
+	\setcounter{exercise}{0}
+	\renewcommand{\standard}{#1}
+	\newpage
+	\subsection*{Standard \standard}
+	\addcontentsline{toc}{subsection}{Standard \standard}
+}

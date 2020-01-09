@@ -1,0 +1,10 @@
+<exercise>
+  <title>V9 - Polynomial Computation (ver. 416)</title>
+  <statement>
+    <p>Find a basis for the subspace of <m>\mathcal{P}^3</m> <me>W=\mathrm{span}\ \left\{22 \, x^{3} - 17 \, x^{2} - 25 \, x + 13 , 5 \, x^{3} + 5 \, x^{2} + 4 \, x , 16 \, x^{3} - 13 \, x^{2} - 15 \, x + 5 , -6 \, x^{3} + 5 \, x^{2} + 5 \, x - 1 , 2 \, x^{3} - 2 \, x^{2} - 2\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{22 \, x^{3} - 17 \, x^{2} - 25 \, x + 13 , 5 \, x^{3} + 5 \, x^{2} + 4 \, x , 16 \, x^{3} - 13 \, x^{2} - 15 \, x + 5\right\}</m>.
+  </p>
+  </answer>
+</exercise>

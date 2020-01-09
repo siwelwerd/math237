@@ -1,0 +1,21 @@
+<exercise>
+  <title>V10 - Basis of Solution Space (ver. 306)</title>
+  <statement>
+    <p>Find a basis for the solution space of the homogeneous system <md><mrow> -4 x_ 1 -2 x_ 2 + 3 x_ 3 -6 x_ 4 &amp;= 0  </mrow> <mrow> + 2 x_ 2 -1 x_ 3 + 2 x_ 4 &amp;= 0  </mrow> <mrow> 3 x_ 1 + 9 x_ 2 -6 x_ 3 + 12 x_ 4 &amp;= 0  </mrow> <mrow> 2 x_ 1 -10 x_ 2 + 4 x_ 3 -8 x_ 4 &amp;= 0  </mrow> </md></p> 
+  </statement>
+
+  <answer>
+  <p> A basis is   <me>\left\{\left[\begin{array}{c}
+\frac{1}{2} \\
+\frac{1}{2} \\
+1 \\
+0
+\end{array}\right] , \left[\begin{array}{c}
+-1 \\
+-1 \\
+0 \\
+1
+\end{array}\right]\right\}.</me>
+  </p>
+  </answer>
+</exercise>

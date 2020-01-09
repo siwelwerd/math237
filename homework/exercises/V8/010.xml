@@ -1,0 +1,46 @@
+<exercise>
+  <title>V8 - Dimension (ver. 10)</title>
+  <statement>
+    <p>Explain how to find the dimension of <me>W=\mathrm{span}\ \left\{\left[\begin{array}{r}
+-1 \\
+-1 \\
+-4 \\
+3 \\
+-3
+\end{array}\right] , \left[\begin{array}{r}
+-3 \\
+-1 \\
+1 \\
+-1 \\
+-4
+\end{array}\right] , \left[\begin{array}{r}
+17 \\
+9 \\
+16 \\
+-11 \\
+31
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+2 \\
+2 \\
+1 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+6 \\
+2 \\
+10 \\
+-12 \\
+16
+\end{array}\right] , \left[\begin{array}{r}
+25 \\
+13 \\
+16 \\
+-8 \\
+41
+\end{array}\right]\right\}.</me></p>
+  </statement>
+  <answer>
+  <p> The dimension of <m>W</m> is  <m>3</m>.
+  </p>
+  </answer>
+</exercise>

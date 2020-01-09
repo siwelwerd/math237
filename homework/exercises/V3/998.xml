@@ -1,0 +1,73 @@
+<exercise>
+  <title>V3 - Spanning sets (ver. 998)</title>
+  <statement>
+    <p>Explain why the vectors <m>\left[\begin{array}{r}
+2 \\
+2 \\
+0 \\
+-4
+\end{array}\right] , \left[\begin{array}{r}
+3 \\
+-1 \\
+-1 \\
+1
+\end{array}\right] , \left[\begin{array}{r}
+1 \\
+0 \\
+-5 \\
+-5
+\end{array}\right] , \left[\begin{array}{r}
+-5 \\
+-3 \\
+0 \\
+4
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+-2 \\
+0 \\
+0
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-3 \\
+4 \\
+2 \\
+-1
+\end{array}\right]</m> span or don't span <m>\mathbb{R}^4</m>. 
+	</p>
+  </statement>
+  <answer>
+  <p> The vectors <m>\left[\begin{array}{r}
+2 \\
+2 \\
+0 \\
+-4
+\end{array}\right] , \left[\begin{array}{r}
+3 \\
+-1 \\
+-1 \\
+1
+\end{array}\right] , \left[\begin{array}{r}
+1 \\
+0 \\
+-5 \\
+-5
+\end{array}\right] , \left[\begin{array}{r}
+-5 \\
+-3 \\
+0 \\
+4
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+-2 \\
+0 \\
+0
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-3 \\
+4 \\
+2 \\
+-1
+\end{array}\right]</m> 
+  	 do  
+	span <m>\mathbb{R}^4</m>.
+  </p>
+  </answer>
+</exercise>

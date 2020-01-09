@@ -1,0 +1,71 @@
+<exercise>
+  <title>V5 - Linear Independence (ver. 137)</title>
+  <statement>
+    <p>Explain why the vectors <m>\left[\begin{array}{r}
+1 \\
+4 \\
+4 \\
+4 \\
+-1
+\end{array}\right] , \left[\begin{array}{r}
+5 \\
+0 \\
+1 \\
+-4 \\
+5
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+5 \\
+-6 \\
+-1 \\
+-6
+\end{array}\right] , \left[\begin{array}{r}
+5 \\
+-5 \\
+-5 \\
+5 \\
+-6
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-2 \\
+-6 \\
+0 \\
+-5 \\
+-6
+\end{array}\right]</m> are linearly dependent or linearly independent.	</p>
+  </statement>
+  <answer>
+  <p> The vectors <m>\left[\begin{array}{r}
+1 \\
+4 \\
+4 \\
+4 \\
+-1
+\end{array}\right] , \left[\begin{array}{r}
+5 \\
+0 \\
+1 \\
+-4 \\
+5
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+5 \\
+-6 \\
+-1 \\
+-6
+\end{array}\right] , \left[\begin{array}{r}
+5 \\
+-5 \\
+-5 \\
+5 \\
+-6
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-2 \\
+-6 \\
+0 \\
+-5 \\
+-6
+\end{array}\right]</m> are 
+  	 linearly independent  .
+  </p>
+  </answer>
+</exercise>

@@ -1,0 +1,51 @@
+<exercise>
+  <title>V6 - Basis verification (ver. 705)</title>
+  <statement>
+    <p>Explain why the vectors <m>\left[\begin{array}{r}
+0 \\
+-1 \\
+2 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+-1 \\
+1 \\
+-5 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+-1 \\
+1 \\
+-5 \\
+2
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+1 \\
+-2 \\
+-5 \\
+2
+\end{array}\right]</m> are or are not a basis of <m>\mathbb{R}^4</m>	</p>
+  </statement>
+  <answer>
+  <p> The vectors <m>\left[\begin{array}{r}
+0 \\
+-1 \\
+2 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+-1 \\
+1 \\
+-5 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+-1 \\
+1 \\
+-5 \\
+2
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+1 \\
+-2 \\
+-5 \\
+2
+\end{array}\right]</m> 
+  	 are not  a basis of <m>\mathbb{R}^4</m>.
+  </p>
+  </answer>
+</exercise>

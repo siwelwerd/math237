@@ -1,0 +1,71 @@
+<exercise>
+  <title>V6 - Basis verification (ver. 891)</title>
+  <statement>
+    <p>Explain why the vectors <m>\left[\begin{array}{r}
+-3 \\
+-4 \\
+-3 \\
+-3 \\
+-5
+\end{array}\right] , \left[\begin{array}{r}
+-3 \\
+0 \\
+-3 \\
+3 \\
+-2
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+0 \\
+4 \\
+-3 \\
+-1
+\end{array}\right] , \left[\begin{array}{r}
+3 \\
+3 \\
+4 \\
+-4 \\
+-4
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+6 \\
+-3 \\
+5 \\
+-5 \\
+10
+\end{array}\right]</m> are or are not a basis of <m>\mathbb{R}^5</m>	</p>
+  </statement>
+  <answer>
+  <p> The vectors <m>\left[\begin{array}{r}
+-3 \\
+-4 \\
+-3 \\
+-3 \\
+-5
+\end{array}\right] , \left[\begin{array}{r}
+-3 \\
+0 \\
+-3 \\
+3 \\
+-2
+\end{array}\right] , \left[\begin{array}{r}
+2 \\
+0 \\
+4 \\
+-3 \\
+-1
+\end{array}\right] , \left[\begin{array}{r}
+3 \\
+3 \\
+4 \\
+-4 \\
+-4
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+6 \\
+-3 \\
+5 \\
+-5 \\
+10
+\end{array}\right]</m> 
+  	 are not  a basis of <m>\mathbb{R}^5</m>.
+  </p>
+  </answer>
+</exercise>

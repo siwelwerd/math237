@@ -1,0 +1,11 @@
+<exercise>
+  <title>V10 - Basis of Solution Space (ver. 700)</title>
+  <statement>
+    <p>Find a basis for the solution space of the homogeneous system <md><mrow> -5 x_ 2 -6 x_ 3 &amp;= 0  </mrow> <mrow> -6 x_ 1 -2 x_ 2 + 2 x_ 3 &amp;= 0  </mrow> <mrow> -3 x_ 1 -5 x_ 2 -1 x_ 3 &amp;= 0  </mrow> <mrow> -4 x_ 1 -5 x_ 2 -2 x_ 3 &amp;= 0  </mrow> </md></p> 
+  </statement>
+
+  <answer>
+  <p> A basis is   <me>\left\{\right\}.</me>
+  </p>
+  </answer>
+</exercise>

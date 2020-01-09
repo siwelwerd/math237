@@ -1,0 +1,15 @@
+<exercise>
+  <title>V1 - Vector Spaces (ver. 439)</title>
+  <statement>
+    <p>Let <m>V</m> be the set of all pairs of numbers <m>(x_1,y_1)\in\mathbb{R}^2</m>  together with the operations <md><mrow>(x_1,y_1)\oplus (x_2,y_2)&amp;= (2x_1+x_2, y_1+3y_2)</mrow><mrow>c \odot (x_1,y_1) &amp;= (cx_1,cy_1)</mrow></md>
+	Show that scalar multiplication distributes over vector addition, i.e. 
+					<me>c\odot \left((x_1,y_1)\oplus(x_2,y_2)\right)=c\odot(x_1,y_1)\oplus c\odot(x_2,y_2).</me>.
+	Show that <m>V</m> nonetheless is not a vector space.
+	</p>
+  </statement>
+  <answer>
+  <p> <m>V</m> is not a vector space because vector addition is not associative
+	
+  </p>
+  </answer>
+</exercise>

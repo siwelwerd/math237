@@ -1,0 +1,10 @@
+<exercise>
+  <title>V9 - Polynomial Computation (ver. 608)</title>
+  <statement>
+    <p>Find a basis for the subspace of <m>\mathcal{P}^3</m> <me>W=\mathrm{span}\ \left\{2 \, x^{3} - 2 \, x^{2} - 4 \, x + 4 , -2 \, x^{3} + 2 \, x^{2} + 4 \, x - 4 , -18 \, x^{3} - 20 , -6 \, x^{3} - 3 \, x^{2} - 6 \, x - 4 , -2 \, x^{3} - 4 \, x^{2} + 3 \, x + 4\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{2 \, x^{3} - 2 \, x^{2} - 4 \, x + 4 , -18 \, x^{3} - 20 -2 \, x^{3} - 4 \, x^{2} + 3 \, x + 4\right\}</m>.
+  </p>
+  </answer>
+</exercise>

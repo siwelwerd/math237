@@ -1,0 +1,10 @@
+<exercise>
+  <title>V9 - Polynomial Computation (ver. 669)</title>
+  <statement>
+    <p>Find a basis for the subspace of <m>\mathcal{P}^3</m> <me>W=\mathrm{span}\ \left\{-8 \, x^{3} - 7 \, x^{2} + 10 \, x + 17 , x^{3} - 4 \, x^{2} - 2 \, x + 2 , 3 \, x^{3} + 4 \, x^{2} - 6 \, x - 6 , 2 \, x^{3} + 3 \, x^{2} + 5 , 2 \, x^{2} - x + 5\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{-8 \, x^{3} - 7 \, x^{2} + 10 \, x + 17 , x^{3} - 4 \, x^{2} - 2 \, x + 2 , 3 \, x^{3} + 4 \, x^{2} - 6 \, x - 6 , 2 \, x^{3} + 3 \, x^{2} + 5\right\}</m>.
+  </p>
+  </answer>
+</exercise>

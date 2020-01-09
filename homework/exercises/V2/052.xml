@@ -1,0 +1,66 @@
+<exercise>
+  <title>V2 - Linear Combinations (ver. 52)</title>
+  <statement>
+    <p>Explain why the vector <m>\left[\begin{array}{c}
+3 \\
+0 \\
+8 \\
+2
+\end{array}\right]</m>  is or is not a linear 
+	combination of the vectors <m>\left[\begin{array}{c}
+3 \\
+0 \\
+4 \\
+0
+\end{array}\right] , \left[\begin{array}{c}
+0 \\
+0 \\
+-4 \\
+-2
+\end{array}\right] , \left[\begin{array}{c}
+-1 \\
+0 \\
+-1 \\
+-2
+\end{array}\right] , \text{ and } \left[\begin{array}{c}
+-1 \\
+-1 \\
+-5 \\
+0
+\end{array}\right]</m>.
+	</p>
+  </statement>
+  <answer>
+  <p> <m>\left[\begin{array}{c}
+3 \\
+0 \\
+8 \\
+2
+\end{array}\right]</m> 
+  	 is  
+	a linear combination of the vectors <m>\left[\begin{array}{c}
+3 \\
+0 \\
+4 \\
+0
+\end{array}\right] , \left[\begin{array}{c}
+0 \\
+0 \\
+-4 \\
+-2
+\end{array}\right] , \left[\begin{array}{c}
+-1 \\
+0 \\
+-1 \\
+-2
+\end{array}\right] , \text{ and } \left[\begin{array}{c}
+-1 \\
+-1 \\
+-5 \\
+0
+\end{array}\right]</m>.
+
+	
+  </p>
+  </answer>
+</exercise>

@@ -1,0 +1,55 @@
+<exercise>
+  <title>V7 - Basis Computation (ver. 303)</title>
+  <statement>
+    <p>Find a basis for the subspace <me>W=\mathrm{span}\ \left\{\left[\begin{array}{r}
+-1 \\
+2 \\
+-2 \\
+3
+\end{array}\right] , \left[\begin{array}{r}
+0 \\
+-2 \\
+1 \\
+-2
+\end{array}\right] , \left[\begin{array}{r}
+0 \\
+-4 \\
+3 \\
+-3
+\end{array}\right] , \left[\begin{array}{r}
+-4 \\
+-4 \\
+-3 \\
+2
+\end{array}\right] , \left[\begin{array}{r}
+-5 \\
+-16 \\
+1 \\
+-7
+\end{array}\right]\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{\left[\begin{array}{r}
+-1 \\
+2 \\
+-2 \\
+3
+\end{array}\right] , \left[\begin{array}{r}
+0 \\
+-2 \\
+1 \\
+-2
+\end{array}\right] , \left[\begin{array}{r}
+0 \\
+-4 \\
+3 \\
+-3
+\end{array}\right] , \left[\begin{array}{r}
+-4 \\
+-4 \\
+-3 \\
+2
+\end{array}\right]\right\}</m>.
+  </p>
+  </answer>
+</exercise>

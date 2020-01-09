@@ -1,0 +1,15 @@
+<exercise>
+  <title>V10 - Basis of Solution Space (ver. 496)</title>
+  <statement>
+    <p>Find a basis for the solution space of the homogeneous system <md><mrow> 4 x_ 1 -4 x_ 2 &amp;= 0  </mrow> <mrow> -5 x_ 1 + 5 x_ 2 &amp;= 0  </mrow> <mrow> + 10 x_ 2 -5 x_ 3 &amp;= 0  </mrow> <mrow> 4 x_ 1 -2 x_ 3 &amp;= 0  </mrow> </md></p> 
+  </statement>
+
+  <answer>
+  <p> A basis is   <me>\left\{\left[\begin{array}{c}
+\frac{1}{2} \\
+\frac{1}{2} \\
+1
+\end{array}\right]\right\}.</me>
+  </p>
+  </answer>
+</exercise>

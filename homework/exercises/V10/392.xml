@@ -1,0 +1,17 @@
+<exercise>
+  <title>V10 - Basis of Solution Space (ver. 392)</title>
+  <statement>
+    <p>Find a basis for the solution space of the homogeneous system <md><mrow> 2 x_ 1 -5 x_ 2 -3 x_ 3 + 4 x_ 4 -5 x_ 5 &amp;= 0  </mrow> <mrow> 4 x_ 1 -1 x_ 2 + 2 x_ 3 + 1 x_ 4 + 3 x_ 5 &amp;= 0  </mrow> <mrow> -3 x_ 2 -1 x_ 3 + 3 x_ 4 + 2 x_ 5 &amp;= 0  </mrow> <mrow> 4 x_ 1 -4 x_ 2 + 5 x_ 3 -2 x_ 4 -4 x_ 5 &amp;= 0  </mrow> </md></p> 
+  </statement>
+
+  <answer>
+  <p> A basis is   <me>\left\{\left[\begin{array}{c}
+\frac{203}{228} \\
+-\frac{191}{114} \\
+-\frac{48}{19} \\
+-\frac{121}{38} \\
+1
+\end{array}\right]\right\}.</me>
+  </p>
+  </answer>
+</exercise>

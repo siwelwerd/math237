@@ -1,0 +1,53 @@
+<exercise>
+  <title>V3 - Spanning sets (ver. 933)</title>
+  <statement>
+    <p>Explain why the vectors <m>\left[\begin{array}{r}
+0 \\
+1 \\
+-4 \\
+0
+\end{array}\right] , \left[\begin{array}{r}
+-3 \\
+-5 \\
+-5 \\
+4
+\end{array}\right] , \left[\begin{array}{r}
+6 \\
+9 \\
+14 \\
+-8
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-15 \\
+-21 \\
+-41 \\
+20
+\end{array}\right]</m> span or don't span <m>\mathbb{R}^4</m>. 
+	</p>
+  </statement>
+  <answer>
+  <p> The vectors <m>\left[\begin{array}{r}
+0 \\
+1 \\
+-4 \\
+0
+\end{array}\right] , \left[\begin{array}{r}
+-3 \\
+-5 \\
+-5 \\
+4
+\end{array}\right] , \left[\begin{array}{r}
+6 \\
+9 \\
+14 \\
+-8
+\end{array}\right] , \text{ and } \left[\begin{array}{r}
+-15 \\
+-21 \\
+-41 \\
+20
+\end{array}\right]</m> 
+  	 do not  
+	span <m>\mathbb{R}^4</m>.
+  </p>
+  </answer>
+</exercise>

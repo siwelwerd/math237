@@ -1,0 +1,31 @@
+<exercise>
+  <title>V9 - Polynomial Computation (ver. 198)</title>
+  <statement>
+    <p>Find a basis for the subspace of <m>M_{2,2}</m> <me>W=\mathrm{span}\ \left\{\left[\begin{array}{cc}
+-6 &amp; 2 \\
+0 &amp; 3
+\end{array}\right] , \left[\begin{array}{cc}
+-3 &amp; -6 \\
+3 &amp; 4
+\end{array}\right] , \left[\begin{array}{cc}
+21 &amp; 0 \\
+-3 &amp; -13
+\end{array}\right] , \left[\begin{array}{cc}
+-63 &amp; 14 \\
+3 &amp; 34
+\end{array}\right] , \left[\begin{array}{cc}
+-42 &amp; 0 \\
+6 &amp; 26
+\end{array}\right]\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{\left[\begin{array}{cc}
+-6 &amp; 2 \\
+0 &amp; 3
+\end{array}\right] , \left[\begin{array}{cc}
+-3 &amp; -6 \\
+3 &amp; 4
+\end{array}\right]\right\}</m>.
+  </p>
+  </answer>
+</exercise>

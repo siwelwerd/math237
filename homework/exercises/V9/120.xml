@@ -1,0 +1,10 @@
+<exercise>
+  <title>V9 - Polynomial Computation (ver. 120)</title>
+  <statement>
+    <p>Find a basis for the subspace of <m>\mathcal{P}^3</m> <me>W=\mathrm{span}\ \left\{-8 \, x^{3} - 15 \, x^{2} + x - 4 , -3 \, x^{3} - 6 \, x^{2} - 4 , 2 \, x^{3} + 3 \, x^{2} - x - 4 , 3 \, x^{3} + 6 \, x^{2} + 4 , -7 \, x^{3} - 15 \, x^{2} - x - 16\right\}.</me> Be sure to explain why your result is a basis.</p>
+  </statement>
+  <answer>
+  <p> A basis of <m>W</m> is  <m>\left\{-8 \, x^{3} - 15 \, x^{2} + x - 4 , -3 \, x^{3} - 6 \, x^{2} - 4\right\}</m>.
+  </p>
+  </answer>
+</exercise>

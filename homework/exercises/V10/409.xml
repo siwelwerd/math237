@@ -1,0 +1,17 @@
+<exercise>
+  <title>V10 - Basis of Solution Space (ver. 409)</title>
+  <statement>
+    <p>Find a basis for the solution space of the homogeneous system <md><mrow> 3 x_ 1 -2 x_ 2 -6 x_ 3 -6 x_ 4 -3 x_ 5 &amp;= 0  </mrow> <mrow> 1 x_ 1 + 3 x_ 2 -5 x_ 3 + 2 x_ 4 -1 x_ 5 &amp;= 0  </mrow> <mrow> -2 x_ 1 -4 x_ 2 -5 x_ 3 -6 x_ 4 + 1 x_ 5 &amp;= 0  </mrow> <mrow> -4 x_ 1 -4 x_ 2 + 5 x_ 3 + 1 x_ 4 -6 x_ 5 &amp;= 0  </mrow> </md></p> 
+  </statement>
+
+  <answer>
+  <p> A basis is   <me>\left\{\left[\begin{array}{c}
+\frac{1003}{429} \\
+-\frac{57}{13} \\
+-\frac{463}{429} \\
+\frac{459}{143} \\
+1
+\end{array}\right]\right\}.</me>
+  </p>
+  </answer>
+</exercise>
