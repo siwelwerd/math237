@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.8)  16 AUG 2020 20:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.5)  21 JAN 2021 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,32 +1114,23 @@ Overfull \hbox (33.8679pt too wide) in paragraph at lines 157--157
 ]
 [31
 
-] [32
+]
+<student-comparison.png, id=914, 376.40625pt x 211.54031pt>
+File: student-comparison.png Graphic file (type png)
+<use student-comparison.png>
+Package pdftex.def Info: student-comparison.png  used on input line 281.
+(pdftex.def)             Requested size: 263.48257pt x 148.0772pt.
+ [32
 
-] [33
+ <./student-comparison.png (PNG copy)>] [33
 
 ] [34
 
-]
-<student-comparison.png, id=999, 376.40625pt x 211.54031pt>
-File: student-comparison.png Graphic file (type png)
-<use student-comparison.png>
-Package pdftex.def Info: student-comparison.png  used on input line 289.
-(pdftex.def)             Requested size: 263.48257pt x 148.0772pt.
- [35
+] [35
 
- <./student-comparison.png (PNG copy)>] [36
+] [36
 
 ] [37
-
-]
-[38
-
-] [39
-
-] [40
-
-] [41
 
 ]
 \tf@nav=\write6
@@ -1151,31 +1142,38 @@ Package pdftex.def Info: student-comparison.png  used on input line 289.
 \tf@snm=\write8
 \openout8 = `day1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 367.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 367.
- (./day1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 367.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 367.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+
+(./day1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
 Package rerunfilecheck Info: File `day1.out' has not changed.
 (rerunfilecheck)             Checksum: 03AFE5F402E259BD13339765F91AE618;128.
  ) 
 Here is how much of TeX's memory you used:
- 30870 strings out of 483107
- 747323 string characters out of 5964631
+ 30862 strings out of 483107
+ 747255 string characters out of 5964631
  1130199 words of memory out of 5000000
- 45187 multiletter control sequences out of 15000+600000
+ 45185 multiletter control sequences out of 15000+600000
  542912 words of font info for 63 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  63i,15n,98p,771b,2035s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on day1.pdf (41 pages, 230057 bytes).
+pdfTeX warning (dest): name{Navigation38} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation40} has been referenced but does not exis
+t, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on day1.pdf (37 pages, 223117 bytes).
 PDF statistics:
- 1238 PDF objects out of 1440 (max. 8388607)
- 1168 compressed objects within 12 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 1126 PDF objects out of 1200 (max. 8388607)
+ 1061 compressed objects within 11 object streams
+ 79 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 
