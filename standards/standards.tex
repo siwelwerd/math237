@@ -1,0 +1,125 @@
+\documentclass{article}
+
+
+\usepackage[left=0.75in,right=0.75in,top=1in,bottom=1in]{geometry}
+\usepackage{enumerate,amssymb}
+
+\newcommand{\module}{?}
+\newcommand{\setModule}[1]{\renewcommand{\module}{#1}}
+\newcommand{\moduleQuestion}[1]{
+  \noindent\textbf{Module \module:} #1
+}
+\newenvironment{moduleStandards}{
+  \begin{enumerate}[\bf\(\Box\) \(\Box\) \module{}1.]
+  \setlength{\itemsep}{-0.02in}
+}{
+  \end{enumerate}
+}
+\newcommand{\standard}[3]{
+  \item \textbf{#1.}
+        I can#3
+}
+
+\newcommand{\IR}{\mathbb{R}}
+
+\begin{document}
+\pagestyle{empty}
+\vspace{0.3in}
+\hrule
+\begin{center}\large \textbf{Linear Algebra Standards}\end{center}
+\hrule
+\vspace{0.1in}
+
+\setModule{LE}
+\begin{moduleStandards}
+  \standard{Systems as matrices}{SysMat}{
+    translate back and forth between a system of linear equations, 
+	a vector equation, and the corresponding augmented matrix.
+  }
+  \standard{Row reduction}{Rref}{
+    explain why a matrix isn't in reduced row echelon form, and put a matrix in reduced row echelon form.
+  }
+  \standard{Counting solutions of of linear systems}{SlvSys}{
+    determine the number of solutions for a system of linear equations or a vector equation.
+  }
+    \standard{Solution sets of linear systems}{SlvSys}{
+    compute the solution set for a system of linear equations or a vector equation with infinitely many solutions.
+  }
+\end{moduleStandards}
+\setModule{VS}
+\begin{moduleStandards}
+  \standard{Vector spaces}{VecSp}{
+    explain why a given set with defined addition and scalar multiplication does satisfy a given vector space property, but nonetheless isn't a vector space.
+  }
+  \standard{Linear combinations}{LinCmb}{
+    determine if a Euclidean vector can be written as a linear combination of a given set of Euclidean vectors by solving an appropriate vector equation.
+  }
+  \standard{Spanning sets}{Span}{
+    determine if a set of Euclidean vectors spans \(\IR^n\) by solving appropriate vector equations.
+  }
+  \standard{Subspaces}{Subsp}{
+    determine if a subset of \(\IR^n\) is a subspace or not.
+  }
+  \standard{Linear independence}{LinInd}{
+    determine if a set of Euclidean vectors is linearly dependent or
+    independent by solving an appropriate vector equation.
+  }
+  \standard{Basis verification}{BasVer}{
+    explain why a set of Euclidean vectors is or is not a basis of \(\IR^n\).
+  }
+  \standard{Basis computation}{BasCmp}{
+    compute a basis for the subspace spanned by a given set of Euclidean
+    vectors, and determine the dimension of the subspace.
+  }
+  \standard{Polynomial and Matrix computation}{PolyBasis}{
+     answer questions about vector spaces of polynomials or matrices.
+  }
+  \standard{Basis of solution space}{BasSol}{
+    find a basis for the solution set of a homogeneous system of equations.
+  }
+\end{moduleStandards}
+\setModule{AT}
+\begin{moduleStandards}
+  \standard{Linear map verification}{LinVer}{
+    determine if a map between vector spaces of polynomials is linear or not.
+  }
+  \standard{Linear maps and matrices}{LinMat}{
+    translate back and forth between a
+    linear transformation of Euclidean spaces and its standard matrix, and
+    perform related computations.
+  }
+  \standard{Kernel and Image}{KerImg}{
+    compute a basis for the kernel and a basis for the image of a linear map, and verify that the rank-nullity theorem holds for a given linear map.
+  }
+  \standard{Injectivity and surjectivity}{InjSrj}{
+    determine if a given linear map is injective and/or surjective.
+  }
+\end{moduleStandards}
+\setModule{MX}
+\begin{moduleStandards}
+  \standard{Matrix Multiplication}{MatMlt}{
+    multiply matrices.
+  }
+  \standard{Row operations as matrix multiplication}{RowMult}{
+    can express row operations through matrix multiplication.
+  }
+  \standard{Invertible Matrices}{InvVer}{
+    determine if a square matrix is invertible or not, and if so, compute its inverse.
+  }
+\end{moduleStandards}
+\setModule{GT}
+\begin{moduleStandards}
+  \standard{Row operations and Determinants}{RowOp}{
+    describe how a row operation affects the determinant of a matrix. }
+  \standard{Determinants}{Det}{
+    compute the determinant of a \(4\times 4\) matrix.
+  }
+  \standard{Eigenvalues}{EigVal}{
+    find the eigenvalues of a \(2\times 2\) matrix.
+  }
+  \standard{Eigenvectors}{EigVec}{
+    find a basis for the eigenspace of a \(4\times 4\)  
+    matrix associated with a given eigenvalue.
+  }
+\end{moduleStandards}
+\end{document}
