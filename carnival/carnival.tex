@@ -1,0 +1,199 @@
+\documentclass{article}
+\usepackage[left=1in,right=1in,bottom=1in,top=0.2in]{geometry}
+\usepackage{newenviron, graphicx, amsmath, amssymb, enumerate}
+\usepackage{graphicx}
+
+
+\newcommand{\ferriswheel}{\includegraphics[scale=0.05]{ferris_wheel.png} }
+
+\newenviron{exercise}[3]{
+\ferriswheel \hfill  {\Huge \textbf{#1: #2}} \hfill \ferriswheel
+\ \\
+\vspace{0.2in}
+
+\exercisebody
+\vfill \begin{flushright}Version {#3} \end{flushright} \newpage
+}{}
+\newenvironment{exerciseStatement}{}{}
+\newenviron{exerciseAnswer}{}{}
+
+\pagestyle{empty}
+
+\begin{document}
+
+
+
+\begin{exercise}{VS1}{Vector spaces}{1164} 
+\begin{exerciseStatement} 
+
+ Let \(V\) be the set of all pairs \((x,y)\) of real numbers together with the following operations: 
+
+ \[(x_1,y_1)\oplus (x_2,y_2)=\left(x_{1} + x_{2} + 5,\,\sqrt{y_{1}^{2} + y_{2}^{2}}\right)\]\[c \odot (x,y) =\left(c x,\,c y\right).\] 
+
+ (a) Show that vector addition is associative, that is: 
+
+ \[
+      \left((x_1,y_1)\oplus(x_2,y_2)\right)\oplus(x_3,y_3)=(x_1,y_1)\oplus\left((x_2,y_2)\oplus(x_3,y_3)\right).
+    \] 
+
+ (b) Explain why \(V\) nonetheless is not a vector space. 
+
+ \end{exerciseStatement}
+ \begin{exerciseAnswer} 
+
+ \(V\) is not a vector space, which may be shown by demonstrating that any one of the following properties do not hold: 
+
+ 
+
+\begin{itemize}
+\item there is no additive identity element
+\item scalar multiplication does not distribute over vector addition
+\item scalar multiplication does not distribute over scalar addition
+\end{itemize}
+
+     \end{exerciseAnswer}
+ \end{exercise}
+ 
+ 
+\begin{exercise}{VS2}{Linear combinations}{4846} 
+
+\begin{exerciseStatement} 
+
+\begin{enumerate}[(a)]
+\item  
+
+ Write a statement involving the solutions of a vector equation that's equivalent to each claim below. 
+
+ 
+
+\begin{itemize}
+\item   \(\left[\begin{array}{c}
+-6 \\
+1 \\
+-4 \\
+-4
+\end{array}\right]\)is a linear combination of the vectors \(\left[\begin{array}{c}
+-2 \\
+0 \\
+-1 \\
+-1
+\end{array}\right] , \left[\begin{array}{c}
+2 \\
+0 \\
+1 \\
+1
+\end{array}\right] , \text{ and } \left[\begin{array}{c}
+-2 \\
+1 \\
+-2 \\
+-2
+\end{array}\right]\). 
+
+ 
+\item   \(\left[\begin{array}{c}
+-7 \\
+0 \\
+-5 \\
+-3
+\end{array}\right]\)is a linear combination of the vectors \(\left[\begin{array}{c}
+-2 \\
+0 \\
+-1 \\
+-1
+\end{array}\right] , \left[\begin{array}{c}
+2 \\
+0 \\
+1 \\
+1
+\end{array}\right] , \text{ and } \left[\begin{array}{c}
+-2 \\
+1 \\
+-2 \\
+-2
+\end{array}\right]\). 
+
+ 
+\end{itemize}
+
+     
+\item   Use these statements to determine if each vector is or is not a linear combination. If it is, give an example of such a linear combination. 
+
+ 
+\end{enumerate}
+
+     \end{exerciseStatement}
+ \begin{exerciseAnswer} 
+
+\begin{itemize}
+\item   \(
+\mathrm{RREF}\, \left[\begin{array}{ccc|c}
+-2 & 2 & -2 & -6 \\
+0 & 0 & 1 & 1 \\
+-1 & 1 & -2 & -4 \\
+-1 & 1 & -2 & -4
+\end{array}\right] = \left[\begin{array}{ccc|c}
+1 & -1 & 0 & 2 \\
+0 & 0 & 1 & 1 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0
+\end{array}\right]
+                        \) 
+
+ 
+
+ \(\left[\begin{array}{c}
+-6 \\
+1 \\
+-4 \\
+-4
+\end{array}\right]\) is a linear combination, for example: \(
+2 \left[\begin{array}{c}
+-2 \\
+0 \\
+-1 \\
+-1
+\end{array}\right] + 1 \left[\begin{array}{c}
+-2 \\
+1 \\
+-2 \\
+-2
+\end{array}\right] = \left[\begin{array}{c}
+-6 \\
+1 \\
+-4 \\
+-4
+\end{array}\right]
+                            \) 
+
+ 
+\item   \(
+\mathrm{RREF}\, \left[\begin{array}{ccc|c}
+-2 & 2 & -2 & -7 \\
+0 & 0 & 1 & 0 \\
+-1 & 1 & -2 & -5 \\
+-1 & 1 & -2 & -3
+\end{array}\right] = \left[\begin{array}{ccc|c}
+1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0
+\end{array}\right]
+                        \) 
+
+ 
+
+ \(\left[\begin{array}{c}
+-7 \\
+0 \\
+-5 \\
+-3
+\end{array}\right]\) is not a linear combination. 
+
+ 
+\end{itemize}
+
+     \end{exerciseAnswer}
+ \end{exercise}
+ 
+ 
+\end{document}
