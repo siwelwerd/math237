@@ -1,107 +1,94 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  22 NOV 2021 10:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.18)  25 APR 2022 09:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **carnival.tex
 (./carnival.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks15
 )
 (/usr/share/texlive/texmf-dist/tex/latex/newenviron/newenviron.sty
 (/usr/share/texlive/texmf-dist/tex/latex/catoptions/catoptions.sty
-\m@one=\count90
-\z@pt=\dimen111
+\m@one=\count178
+\z@pt=\dimen143
 Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
 M)
-\cpt@csvdepth=\count91
-\cpt@optdepth=\count92
-\cpt@cnta=\count93
-\indrisdepth=\count94
-\cpt@foreachdepth=\count95
-\cpt@exprcnt=\count96
+\cpt@csvdepth=\count179
+\cpt@optdepth=\count180
+\cpt@cnta=\count181
+\indrisdepth=\count182
+\cpt@foreachdepth=\count183
+\cpt@exprcnt=\count184
 )
 Package: newenviron 2013/03/08 v1.0 Collect and execute environment body (AM) (
 Ahmed Musa)
 \nenv@temptoks=\toks16
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count97
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
-\@mathmargin=\skip43
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -110,52 +97,52 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
-\ex@=\dimen114
+\ex@=\dimen146
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen115
+\pmbraise@=\dimen147
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count98
-LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count99
-\leftroot@=\count100
-LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count101
-\DOTSCASE@=\count102
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen116
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count103
-\c@MaxMatrixCols=\count104
-\dotsspace@=\muskip10
-\c@parentequation=\count105
-\dspbrk@lvl=\count106
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
 \tag@help=\toks18
-\row@=\count107
-\column@=\count108
-\maxfields@=\count109
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
 \andhelp@=\toks19
-\eqnshift@=\dimen117
-\alignsep@=\dimen118
-\tagshift@=\dimen119
-\tagwidth@=\dimen120
-\totwidth@=\dimen121
-\lineht@=\dimen122
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
 \@envbody=\toks20
-\multlinegap=\skip44
-\multlinetaggap=\skip45
+\multlinegap=\skip50
+\multlinetaggap=\skip51
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -164,22 +151,31 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks22
-) (./carnival.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box47
+)
+(./carnival.aux)
 \openout1 = `carnival.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
@@ -220,2249 +216,1491 @@ LaTeX Font Info:    ... okay on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen123
-\scratchbox=\box28
-\nofMPsegments=\count111
-\nofMParguments=\count112
+\scratchcounter=\count198
+\scratchdimen=\dimen155
+\scratchbox=\box48
+\nofMPsegments=\count199
+\nofMParguments=\count266
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen124
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen156
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
 \everyMPtoPDFconversion=\toks24
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(./problems.tex <ferris_wheel.png, id=1, 875.27pt x 983.675pt>
+(./problems.tex
+<ferris_wheel.png, id=1, 875.27pt x 983.675pt>
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 85.
+Package pdftex.def Info: ferris_wheel.png  used on input line 30.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 85.
+Package pdftex.def Info: ferris_wheel.png  used on input line 30.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ferris_wheel.png>]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 163.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 66.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 163.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 66.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-Overfull \hbox (3.69452pt too wide) detected at line 163
-\OML/cmm/m/it/10 A \OT1/cmr/m/n/10 = []  \OML/cmm/m/it/10 B \OT1/cmr/m/n/10 = [
-]  \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = []  
- []
-
-[2]
+ [2]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 249.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 102.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 249.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 102.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [3]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 335.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 135.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 335.
+Package pdftex.def Info: ferris_wheel.png  used on input line 135.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [4]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 429.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 429.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[5]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 564.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 564.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 564.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 564.
- [6]
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 687.
+Package pdftex.def Info: ferris_wheel.png  used on input line 171.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 687.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 171.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [5]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 203.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 203.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[6]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 239.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 239.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [7]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 822.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 272.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 822.
+Package pdftex.def Info: ferris_wheel.png  used on input line 272.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [8]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 957.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 308.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 957.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 308.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[9]
+ [9]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1080.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 341.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1080.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 341.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [10]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1145.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 487.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1145.
+Package pdftex.def Info: ferris_wheel.png  used on input line 487.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [11]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1193.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 638.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1193.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 638.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[12]
+ [12]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1258.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 784.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1258.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 784.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [13]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1323.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 926.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1323.
+Package pdftex.def Info: ferris_wheel.png  used on input line 926.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [14]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1371.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1047.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1371.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1047.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[15]
+ [15]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1402.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1179.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1402.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1179.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [16]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1434.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1300.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1434.
+Package pdftex.def Info: ferris_wheel.png  used on input line 1300.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [17]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1466.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1432.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1466.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1432.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[18]
+ [18]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1497.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1553.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1497.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1553.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [19]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1529.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1580.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1529.
+Package pdftex.def Info: ferris_wheel.png  used on input line 1580.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [20]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1564.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1564.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[21]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1595.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1595.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [22]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1627.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1627.
+Package pdftex.def Info: ferris_wheel.png  used on input line 1615.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1615.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [21]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1642.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1642.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[22]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1675.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1675.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [23]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1657.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1702.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1657.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1702.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[24]
+ [24]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1688.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1733.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1688.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1733.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [25]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1719.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1764.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1719.
+Package pdftex.def Info: ferris_wheel.png  used on input line 1764.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [26]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1749.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1799.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1749.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1799.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[27]
+ [27]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1781.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1826.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1781.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1826.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [28]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1813.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1859.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1813.
+Package pdftex.def Info: ferris_wheel.png  used on input line 1859.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [29]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1843.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1961.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1843.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 1961.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[30]
+ [30]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1993.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2067.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 1993.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2067.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [31]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2134.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2184.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2134.
+Package pdftex.def Info: ferris_wheel.png  used on input line 2184.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [32]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2275.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2305.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2275.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2305.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[33]
+ [33]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2425.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2385.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2425.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2385.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [34]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2575.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2484.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2575.
+Package pdftex.def Info: ferris_wheel.png  used on input line 2484.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [35]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2716.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2716.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[36]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2857.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 2857.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [37]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3007.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3007.
+Package pdftex.def Info: ferris_wheel.png  used on input line 2541.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2541.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [36]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2602.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2602.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[37]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2659.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2659.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [38]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3157.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2720.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3157.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2720.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[39]
+ [39]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3307.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2777.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3307.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2777.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [40]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3448.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2838.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3448.
+Package pdftex.def Info: ferris_wheel.png  used on input line 2838.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [41]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3598.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2895.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3598.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2895.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[42]
+ [42]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3748.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2971.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3748.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 2971.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [43]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3889.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3040.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 3889.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3040.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [44]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4030.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3113.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4030.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3113.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[45]
+ [45]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4161.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3168.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4161.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3168.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [46]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4277.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3227.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4277.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3227.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [47]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4393.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3282.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4393.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3282.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[48]
+ [48]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4509.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3341.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4509.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3341.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [49]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4625.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3395.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4625.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3395.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [50]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4741.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4741.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[51]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4857.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4857.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [52]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4988.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 4988.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3420.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3420.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [51]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3441.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3441.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[52]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3466.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3466.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [53]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5104.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3487.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5104.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3487.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[54]
+ [54]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5220.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3512.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5220.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3512.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [55]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5351.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3533.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5351.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3533.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [56]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5482.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3558.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5482.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3558.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[57]
+ [57]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5613.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3579.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5613.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3579.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [58]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5744.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3604.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5744.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3604.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [59]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5860.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3625.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5860.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3625.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[60]
+ [60]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5890.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3679.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5890.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3679.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [61]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5918.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3728.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5918.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3728.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [62]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5944.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3819.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5944.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3819.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[63]
+ [63]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5970.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3905.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5970.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3905.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [64]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5998.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 3995.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 5998.
+Package pdftex.def Info: ferris_wheel.png  used on input line 3995.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [65]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6024.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6024.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[66]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6054.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6054.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [67]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6080.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6080.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4081.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4081.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [66]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4172.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4172.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[67]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4259.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4259.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [68]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6108.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4350.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6108.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4350.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[69]
+ [69]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6136.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4413.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6136.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4413.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [70]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6164.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4480.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6164.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4480.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [71]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6190.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4537.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6190.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4537.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[72]
+ [72]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6216.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4598.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6216.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4598.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [73]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6242.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4658.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6242.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4658.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [74]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6270.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4694.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6270.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4694.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[75]
+ [75]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6386.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4724.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6386.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4724.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [76]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6502.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4756.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6502.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4756.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [77]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6603.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4783.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6603.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4783.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[78]
+ [78]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6704.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4813.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6704.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4813.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [79]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6805.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4850.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6805.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4850.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [80]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6906.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 6906.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[81]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7007.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7007.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [82]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7123.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7123.
+Package pdftex.def Info: ferris_wheel.png  used on input line 4891.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4891.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [81]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4928.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4928.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[82]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4969.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 4969.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [83]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7239.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5006.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7239.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5006.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[84]
+ [84]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7340.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5047.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7340.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5047.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [85]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7456.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5084.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7456.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5084.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [86]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7572.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5125.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7572.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5125.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[87]
+ [87]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7688.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5162.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7688.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5162.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [88]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7804.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5226.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7804.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5226.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [89]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7920.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5286.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 7920.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5286.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[90]
+ [90]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8036.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5350.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8036.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5350.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [91]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8152.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5410.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8152.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5410.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [92]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8268.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5474.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8268.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5474.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[93]
+ [93]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8384.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5501.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8384.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5501.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [94]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8500.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5532.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8500.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5532.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [95]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8579.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8579.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[96]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8668.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8668.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [97]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8747.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8747.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5559.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5559.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [96]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5590.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5590.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+
+[97]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5617.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5617.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [98]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8846.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5648.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8846.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5648.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[99]
+ [99]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8930.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5675.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8930.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5675.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [100]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8998.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5706.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 8998.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5706.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [101]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9066.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5733.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9066.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5733.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [102]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9134.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5764.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9134.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5764.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[103]
+ [103]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9190.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5791.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9190.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5791.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [104]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9258.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5822.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9258.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5822.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [105]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9326.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5843.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9326.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5843.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [106]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9397.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5868.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9397.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5868.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[107]
+ [107]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9465.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5889.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9465.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5889.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [108]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9521.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5914.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9521.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5914.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [109]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9577.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9577.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [110]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9648.
+Package pdftex.def Info: ferris_wheel.png  used on input line 5935.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9648.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5935.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 
-[111]
+[110]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9704.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5960.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9704.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5960.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [111]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5981.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 5981.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [112]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9772.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6006.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9772.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6006.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [113]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9840.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6027.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9840.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6027.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [114]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9905.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6052.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9905.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6052.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[115]
+ [115]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9961.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6073.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 9961.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6073.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [116]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10017.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6098.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10017.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6098.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [117]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10088.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6126.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10088.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6126.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [118]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10144.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6158.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10144.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6158.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[119]
+ [119]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10212.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6186.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10212.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6186.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [120]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10276.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6218.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10276.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6218.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [121]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10340.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10340.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [122]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10394.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6246.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10394.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6246.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 
-[123]
+[122]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10452.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6278.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10452.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6278.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [123]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6306.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6306.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [124]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10510.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6338.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10510.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6338.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [125]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10564.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6366.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10564.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6366.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [126]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10628.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6398.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10628.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6398.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[127]
+ [127]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10686.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6426.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10686.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6426.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [128]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10740.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6458.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10740.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6458.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [129]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10794.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6486.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10794.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6486.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [130]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10814.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6518.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10814.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6518.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[131]
+ [131]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10834.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6546.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10834.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6546.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [132]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10854.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6578.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10854.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6578.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [133]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10874.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10874.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [134]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10894.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6606.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10894.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6606.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 
-[135]
+[134]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10914.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6638.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10914.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6638.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [135]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6666.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6666.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [136]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10934.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6698.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10934.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6698.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [137]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10954.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6737.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10954.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6737.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [138]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10974.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6790.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10974.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6790.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[139]
+ [139]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10994.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6829.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 10994.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6829.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [140]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11014.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6877.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11014.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6877.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [141]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11034.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6926.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11034.
+Package pdftex.def Info: ferris_wheel.png  used on input line 6926.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [142]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11054.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6974.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11054.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 6974.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[143]
+ [143]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11074.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7013.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11074.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7013.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [144]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11094.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7056.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11094.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7056.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [145]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11114.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11114.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [146]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11134.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7095.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11134.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7095.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 
-[147]
+[146]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11154.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7143.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11154.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7143.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+ [147]
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7192.
+(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
+File: ferris_wheel.png Graphic file (type png)
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7192.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [148]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11174.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7245.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11174.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7245.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [149]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11194.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7294.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11194.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7294.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [150]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11243.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7347.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11243.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7347.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[151]
+ [151]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11290.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7396.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11290.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7396.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [152]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11337.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7439.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11337.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7439.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [153]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11386.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7478.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11386.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7478.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [154]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11432.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7531.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11432.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7531.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[155]
+ [155]
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11518.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7580.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11518.
+<use ferris_wheel.png>
+Package pdftex.def Info: ferris_wheel.png  used on input line 7580.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
  [156]
 File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11604.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7628.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
 File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11604.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [157]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11689.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
 <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11689.
+Package pdftex.def Info: ferris_wheel.png  used on input line 7628.
 (pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [158]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11774.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11774.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[159]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11859.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11859.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [160]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11945.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 11945.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [161]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12031.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12031.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [162]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12117.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12117.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[163]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12203.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12203.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [164]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12288.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12288.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [165]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12373.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12373.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [166]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12459.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12459.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[167]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12545.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12545.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [168]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12631.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12631.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [169]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12717.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12717.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [170]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12773.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12773.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[171]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12832.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12832.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [172]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12891.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12891.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [173]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12953.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 12953.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [174]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13015.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13015.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[175]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13071.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13071.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [176]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13127.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13127.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [177]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13183.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13183.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [178]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13239.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13239.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[179]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13301.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13301.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [180]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13331.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13331.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [181]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13358.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13358.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [182]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13384.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13384.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[183]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13411.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13411.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [184]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13438.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13438.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [185]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13467.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13467.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [186]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13492.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13492.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[187]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13517.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13517.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [188]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13548.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13548.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [189]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13577.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13577.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [190]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13602.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13602.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[191]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13631.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13631.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [192]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13660.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13660.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [193]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13690.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13690.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [194]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13715.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13715.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[195]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13751.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13751.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [196]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13787.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13787.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [197]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13823.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13823.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [198]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13859.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13859.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[199]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13895.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13895.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [200]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13931.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13931.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [201]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13967.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 13967.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [202]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14003.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14003.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[203]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14039.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14039.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [204]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14075.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14075.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [205]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14134.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14134.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [206]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14193.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14193.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[207]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14252.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14252.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [208]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14311.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14311.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [209]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14370.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14370.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [210]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14429.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14429.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[211]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14488.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14488.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [212]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14547.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14547.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [213]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14606.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14606.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [214]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14665.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14665.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[215]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14724.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14724.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [216]
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14783.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14783.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [217]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14842.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
-
-<use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14842.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [218]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14901.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14901.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-
-[219]
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14960.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
-File: ferris_wheel.png Graphic file (type png)
- <use ferris_wheel.png>
-Package pdftex.def Info: ferris_wheel.png used on input line 14960.
-(pdftex.def)             Requested size: 43.76605pt x 49.18663pt.
- [220]) (./carnival.aux) ) 
+ [157])
+(./carnival.aux) ) 
 Here is how much of TeX's memory you used:
- 4291 strings out of 494910
- 60625 string characters out of 6179835
- 144586 words of memory out of 5000000
- 7537 multiletter control sequences out of 15000+600000
- 6253 words of font info for 25 fonts, out of 8000000 for 9000
+ 4222 strings out of 483140
+ 59011 string characters out of 5965151
+ 316103 words of memory out of 5000000
+ 19227 multiletter control sequences out of 15000+600000
+ 535286 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 53i,9n,57p,334b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cme
-x10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on carnival.pdf (220 pages, 364951 bytes).
+ 55i,9n,61p,306b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/USADIR.USA.USOUTHAL.EDU/drewlewis/.texlive2019/texmf-
+var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on carnival.pdf (157 pages, 287672 bytes).
 PDF statistics:
- 759 PDF objects out of 1000 (max. 8388607)
- 519 compressed objects within 6 object streams
+ 559 PDF objects out of 1000 (max. 8388607)
+ 383 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
