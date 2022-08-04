@@ -1,0 +1,174 @@
+\documentclass[aspectratio=1610]{beamer}
+
+\usetheme[hideothersubsections]{Hannover}
+\usecolortheme{rose}
+%Center frame titles
+\setbeamertemplate{frametitle}[default][center]
+
+
+%%%New Commands/Math operators%%%
+\newcommand{\IR}{\mathbb{R}}
+\newcommand{\IC}{\mathbb{C}}
+\renewcommand{\P}{\mathcal{P}}
+\renewcommand{\Im}{\operatorname{Im}}
+\newcommand{\RREF}{\operatorname{RREF}}
+\newcommand{\vspan}{\operatorname{span}}
+\newcommand{\setList}[1]{\left\{#1\right\}}
+\newcommand{\setBuilder}[2]{\left\{#1\,\middle|\,#2\right\}}
+
+
+
+
+\begin{document}
+
+\begin{frame}
+\begin{center}
+\Large Review
+\end{center}
+\end{frame}
+
+\begin{frame}
+Draw a flowchart connecting related standards in the class.
+\end{frame}
+
+\begin{frame}\frametitle{GT3}
+Explain how to find the eigenvalues of the matrix \(\left[\begin{array}{cc}
+7 & 1 \\
+-18 & -4
+\end{array}\right]\).
+\end{frame}
+
+\begin{frame}\frametitle{GT4}
+Find a basis for the eigenspace associated to the eigenvalue $3$ in the matrix \[\begin{bmatrix} -7 & -8 & 2 \\ 8 & 9 & -1 \\ \frac{13}{2} & 5 & 2 \end{bmatrix}.\]
+\end{frame}
+
+
+\begin{frame}\frametitle{VS4}
+Consider the following two sets of Euclidean vectors.
+\[
+  W = \setBuilder{\begin{bmatrix} x \\ y \\ z \end{bmatrix}}{x+y=z}
+\hspace{3em}
+  U = \setBuilder{\begin{bmatrix} x \\ y \\ z \end{bmatrix}}{x+y=z^2}
+\]
+Show that one of these sets is a subspace of \(\IR^3\), and
+that one of the sets is not.
+
+\end{frame}
+
+\begin{frame}\frametitle{AT1}
+Consider the following maps of polynomials \(S: \P \rightarrow \P\)
+and \(T:\P\rightarrow\P\) defined by
+\[S(f(x))= f(x)-3x \text{ and }T(f(x)) = f(x)-3f'(x).\]
+Show that one of these maps is a linear transformation, and that the other
+map is not.
+\end{frame}
+
+
+\begin{frame}
+\frametitle{VS1}
+Let \(V\) be the set of all pairs \((x,y)\) of real numbers together with the following operations: 
+
+ \[(x_1,y_1)\oplus (x_2,y_2)=\left(x_{1} x_{2},\,y_{1} y_{2}\right)\]\[c \odot (x,y) =\left(x^{c},\,y^{c}\right).\] 
+
+
+\begin{enumerate}[(a)]
+\item Show that there exists an additive identity element, that is: 
+
+ \[
+      \text{There exists }(w,z)\in V\text{ such that }(x,y)\oplus(w,z)=(x,y).
+    \] 
+holds.
+\item Show why \(V\) is not a vector space.
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}\frametitle{GT2}
+Find the determinant of the matrix
+\[
+  A
+    =
+  \begin{bmatrix}
+    1 & 3 & 0 & -1 \\
+    1 & 1 & 2 & 4 \\
+    1 & 1 & 1 & 3 \\
+    -3 & 1 & 2 & -5
+  \end{bmatrix}
+\]
+\end{frame}
+
+\begin{frame}\frametitle{MX2}
+Let \(A\) be a \(4 \times 4\) matrix.
+
+ 
+
+\begin{enumerate}[(a)]
+\item Give a \(4 \times 4\) matrix \(C\) that may be used to perform the row operation \(R_4 \to R_4 + 5R_2\).
+\item Give a \(4 \times 4\) matrix \(P\) that may be used to perform the row operation \(R_4 \to 3R_4\).
+\item Use matrix multiplication to describe the matrix obtained by applying \(R_4 \to 3R_4\) and then \(R_4 \to R_4 + 5R_2\) to \(A\) (note the order). 
+\end{enumerate}
+\end{frame}
+
+\begin{frame}\frametitle{GT1}
+Let \(A\) be a \(4 \times 4\) matrix with determinant \(4\).
+
+ 
+
+\begin{enumerate}[(a)]
+\item Let \(M\) be the matrix obtained from \(A\) by applying the row operation \(R_3 \leftrightarrow R_2\). What is \(\mathrm{det}\,M\)?
+\item Let \(P\) be the matrix obtained from \(A\) by applying the row operation \(R_1 \to 5R_1\). What is \(\mathrm{det}\,P\)?
+\item Let \(C\) be the matrix obtained from \(A\) by applying the row operation \(R_1 \to R_1 + 5R_4\). What is \(\mathrm{det}\,C\)?
+\end{enumerate}
+\end{frame}
+
+\begin{frame}\frametitle{VS8}
+
+\begin{enumerate}[(a)]
+\item  
+
+ Given the set \[\left\{ x^{3} + 3 \, x^{2} + 1 , -x^{3} + x^{2} + x , -3 \, x^{3} - 2 \, x^{2} + 3 \, x - 2 , -6 \, x^{3} - 9 \, x^{2} + 6 \, x - 6 \right\}\] write a statement involving a polynomial equation that's equivalent to each claim below. 
+
+ 
+
+\begin{itemize}
+\item  
+
+ The set of polynomials \textbf{spans} \(\mathcal{P}_3\) 
+
+ 
+\item  
+
+ The set of polynomials does \textbf{not} span \(\mathcal{P}_3\) 
+
+ 
+\end{itemize}
+
+     
+\item  
+
+ Explain how to determine which of these statements is true. 
+
+ 
+\end{enumerate}
+\end{frame}
+
+
+
+\begin{frame}\frametitle{AT3}
+Let \(T: \IR^4 \rightarrow \IR^3\) be the linear transformation given by
+\[
+  T\left(\begin{bmatrix}x\\y\\z\\w\end{bmatrix} \right) =
+  \begin{bmatrix}
+    x+3y+2z-3w \\
+    2x+4y+6z-10w \\
+    x+6y-z+3w
+  \end{bmatrix}
+\]
+Compute a basis for the kernel and a basis for the image of \(T\).
+\end{frame}
+
+
+
+
+\end{document}

@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.5)  15 DEC 2021 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.18)  25 APR 2022 10:27
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **final.tex
 (./final.tex
@@ -110,17 +110,17 @@ LaTeX Font Info:    ... okay on input line 7.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./final.aux) ) 
 Here is how much of TeX's memory you used:
- 907 strings out of 483107
- 13961 string characters out of 5964631
- 249643 words of memory out of 5000000
- 15998 multiletter control sequences out of 15000+600000
+ 907 strings out of 483140
+ 13961 string characters out of 5965151
+ 250548 words of memory out of 5000000
+ 15996 multiletter control sequences out of 15000+600000
  532646 words of font info for 25 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 30i,4n,34p,856b,114s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36 hyphenation exceptions out of 8191
+ 30i,4n,34p,851b,114s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on final.pdf (1 page, 40972 bytes).
+Output written on final.pdf (1 page, 42123 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
